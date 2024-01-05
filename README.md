@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi,
+
+![image](https://github.com/dam-ari/dam-ari/assets/82123617/776ab938-c5cc-463d-9d98-7f0880b86366)
 
 <!--
 **dam-ari/dam-ari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
