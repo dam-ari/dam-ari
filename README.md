@@ -1,18 +1,15 @@
 # Hei 
-## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ying and yang ; hirt and heart ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
+## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ying and yang ; hurt and heart ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
 
 > Seek out the wisdom in the pull requests,
 > find serenity in the push,
 > and let each merge be a fusion of the mind's boundless potential
 > and the machine's infinite possibilities.
+>
+> Delve into the neurons of code, where each synapse fires with purpose, and the elegance of solutions emerges from the complexity of questions.
 
 
-### ![Static Badge](https://img.shields.io/badge/❅_❅_❅_❅_❅_❅_❄️❄️❄️❅_❅_❄️❅_❅_❅_❅_❅_❅_❄️❄️❄️❅_❅_❄️❅_❅_❅_❅_❅_❅_❄️❄️❄️❅_❅_❄️-black) <br>
-<br>
-<span style="font-family: 'Julee';font-size: '24px'; color: 'blue'">  Delve into the neurons of code, where each synapse fires with purpose, and the elegance of solutions emerges from the complexity of questions.
-</span>
-
-
+### ![Static Badge](https://img.shields.io/badge/❅_❅_❅_❅_❅_❅_❄️❄️❄️❅_❅_❄️-black) <br>
 
 🔭 Gazing upon creativity's constellations 
 
@@ -28,12 +25,12 @@
 
 
 🔗 
-![Node.js](https://img.shields.io/badge/-Node.js-90EE90?style=plastic&logo=node.js&logoColor=43853D)
+![Node.js](https://img.shields.io/badge/-Node.js-2F4F4F?style=plastic&logo=node.js&logoColor=5F9EA0)
+![Docusaurus](https://img.shields.io/badge/-Docusaurus-90EE90?style=plastic&logo=docusaurus&logoColor=2E8B57)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-20b2aa?style=plastic&logo=typescript&logoColor=afeeee)
 ![React](https://img.shields.io/badge/-React-18344A?style=plastic&logo=react&logoColor=gray&logoColor=9bf6ff)
-![Docusaurus](https://img.shields.io/badge/-Docusaurus-90EE90?style=plastic&logo=docusaurus&logoColor=2E8B57)
 ![Angular](https://img.shields.io/badge/-Angular-C71585?style=plastic&logo=angular&logoColor=salmon)
-![Python](https://img.shields.io/badge/-Python-ffa500?style=plastic&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-ffa500?style=plastic&logo=python&logoColor=1E90FF)
 ![Colab](https://img.shields.io/badge/-Colab-salmon?style=plastic&logo=googlecolab&logoColor=FFD43B)
 ![Flask](https://img.shields.io/badge/-Flask-gray?style=plastic&logo=flask&logoColor=white)
 
@@ -59,7 +56,7 @@
 
 <details>
   <summary> 
-   <h6>  A Synapse of Creativity and Code</h6>
+   <h6> BALAD OF A Synapse of Creativity and Code</h6>
 </summary> 
 
   <img src="https://github.com/dam-ari/dam-ari/assets/82123617/1232a5e3-ef6f-4c7c-9f04-f9d6a059be47" align="right" width="150" />
