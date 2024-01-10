@@ -8,11 +8,11 @@
 
 
 ### ![Static Badge](https://img.shields.io/badge/❅_❅_❅_❅_❅_❅_❄️❄️❄️❅_❅_❄️❅_❅_❅_❅_❅_❅_❄️❄️❄️❅_❅_❄️❅_❅_❅_❅_❅_❅_❄️❄️❄️❅_❅_❄️-black) <br>
-<div style="font-family:Julee; font-size:24px">
-  Delve into the neurons of code, where each synapse fires with purpose, and the elegance of solutions emerges from the complexity of questions.
-</div>
-
 <br>
+<span style="font-family: 'Julee';font-size: '24px'; color: 'blue'">  Delve into the neurons of code, where each synapse fires with purpose, and the elegance of solutions emerges from the complexity of questions.
+</span>
+
+
 
 🔭 Gazing upon creativity's constellations 
 
@@ -55,7 +55,7 @@
 ![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)
 
 </center>
----
+
 
 <details>
   <summary> 
@@ -67,7 +67,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Annie+Use+Your+Telescope&duration=2500&pause=1000&color=1DBEAC&background=3C3C3C00&vCenter=true&multiline=true&random=false&width=448&height=400&lines=%3E+In+the+tapestry+of+thought+and+theory%2C;%3E+Where+philosophy+meets+the+neural+pulse+of+innovation%2C;%3E+An+enigma+unfolds+in+the+heart+of+the+code.;%3E;%3E+A+constellation+of+creativity+sparkles%2C;%3E+Whispers+of+thought+drift+like+storied+zephyrs.;%3E;%3E+Horizons+expand+where+sunlit+code+kisses+the+edge+of+understanding%2C;%3E+Electrifying+the+world+with+the+power+of+innovation%2C;%3E+Here+lies+the+crossroads+of+possibility+and+discovery.;%3E)](https://git.io/typing-svg)
 </details>
----
+
 <!--
 🔭 Gazing at the constellations of creativity,
 🌱 Nurturing ideas in the fertile soil of open-source,
