@@ -1,5 +1,20 @@
-# Hei 
-## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ying and yang ; hurt and heart ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
+<h6> 
+  <pre>
+                                      .
+                                      / .. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \
+                                      \ \/\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ \/ /
+                                       \/ /`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'\/ / 
+                                       / /\    ,                                                   / /\ 
+                                      / /\ \  /|  |  _ |\ |\  _      (|  |  |_/_   ,_  |\  _|  |  / /\ \
+                                      \ \/ /   |--| |/ |/ |/ / \_     |  |  | / \_/  | |/ / |  |  \ \/ /
+                                       \/ /    |  |)|_/|_/|_/\_/       \/ \/  \_/    |/|_/\/|_/o   \/ / 
+                                       / /\.--..--..--..--..--..--..--..--..--..--..--..--..--..--./ /\ 
+                                      / /\ \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \/\ \
+                                      \ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /' 
+  </pre>
+</h6>
+  
+## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ; ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
 
 > Seek out the wisdom in the pull requests,
 > find serenity in the push,
@@ -48,8 +63,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=28&duration=2500&pause=1500&color=00FFB8&background=3C3C3C00&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22Remember+who+you+are%2C+;+the+true+sovereign+of+your+imagination+%E2%99%95+%F0%9F%92%AB%22)](https://git.io/typing-svg)
 
+<!--
 ![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue) <br>
 ![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)
+--> 
 
 </center>
 
