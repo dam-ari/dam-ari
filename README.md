@@ -1,16 +1,20 @@
 <h6> 
   <pre>
-                                      .
-                                      / .. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \
-                                      \ \/\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ \/ /
-                                       \/ /`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'\/ / 
-                                       / /\    ,                                                   / /\ 
-                                      / /\ \  /|  |  _ |\ |\  _      (|  |  |_/_   ,_  |\  _|  |  / /\ \
-                                      \ \/ /   |--| |/ |/ |/ / \_     |  |  | / \_/  | |/ / |  |  \ \/ /
-                                       \/ /    |  |)|_/|_/|_/\_/       \/ \/  \_/    |/|_/\/|_/o   \/ / 
-                                       / /\.--..--..--..--..--..--..--..--..--..--..--..--..--..--./ /\ 
-                                      / /\ \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \/\ \
-                                      \ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /' 
+__| |______________________________________________________________________________________________________________________________| |__
+__   ______________________________________________________________________________________________________________________________   __
+  | |                                                                                                                              | |  
+  | |  ___  ___  _______   ___       ___       ________          ___       __   ________  ________  ___       ________  ___        | |  
+  | | |\  \|\  \|\  ___ \ |\  \     |\  \     |\   __  \        |\  \     |\  \|\   __  \|\   __  \|\  \     |\   ___ \|\  \       | |  
+  | | \ \  \\\  \ \   __/|\ \  \    \ \  \    \ \  \|\  \       \ \  \    \ \  \ \  \|\  \ \  \|\  \ \  \    \ \  \_|\ \ \  \      | |  
+  | |  \ \   __  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \       \ \  \  __\ \  \ \  \\\  \ \   _  _\ \  \    \ \  \ \\ \ \  \     | |  
+  | |   \ \  \ \  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \       \ \  \|\__\_\  \ \  \\\  \ \  \\  \\ \  \____\ \  \_\\ \ \__\    | |  
+  | |    \ \__\ \__\ \_______\ \_______\ \_______\ \_______\       \ \____________\ \_______\ \__\\ _\\ \_______\ \_______\|__|    | |  
+  | |     \|__|\|__|\|_______|\|_______|\|_______|\|_______|        \|____________|\|_______|\|__|\|__|\|_______|\|_______|   ___  | |  
+  | |                                                                                                                        |\__\ | |  
+  | |                                                                                                                        \|__| | |  
+__| |______________________________________________________________________________________________________________________________| |__
+__   ______________________________________________________________________________________________________________________________   __
+  | |                                                                                                                              | |  
   </pre>
 </h6>
   
@@ -26,6 +30,16 @@
 
 ### ![Static Badge](https://img.shields.io/badge/❅_❅_❅_❅_❅_❅_❄️❄️❄️❅_❅_❄️-black) <br>
 
+🔗 
+![Node.js](https://img.shields.io/badge/-Node.js-2F4F4F?style=plastic&logo=node.js&logoColor=5F9EA0)
+![Docusaurus](https://img.shields.io/badge/-Docusaurus-90EE90?style=plastic&logo=docusaurus&logoColor=2E8B57)
+![TypeScript](https://img.shields.io/badge/-TypeScript-20b2aa?style=plastic&logo=typescript&logoColor=afeeee)
+![React](https://img.shields.io/badge/-React-18344A?style=plastic&logo=react&logoColor=gray&logoColor=9bf6ff)
+![Angular](https://img.shields.io/badge/-Angular-C71585?style=plastic&logo=angular&logoColor=salmon)
+![Python](https://img.shields.io/badge/-Python-ffa500?style=plastic&logo=python&logoColor=1E90FF)
+![Colab](https://img.shields.io/badge/-Colab-salmon?style=plastic&logo=googlecolab&logoColor=FFD43B)
+![Flask](https://img.shields.io/badge/-Flask-gray?style=plastic&logo=flask&logoColor=white)
+
 🔭 Gazing upon creativity's constellations 
 
 🌱 Nurturing ideas in open-source realms [silver roses blooming under a sheep-clouded sunset]
@@ -39,15 +53,7 @@
 ⚡ Melding innovation's light with twilight's magic.
 
 
-🔗 
-![Node.js](https://img.shields.io/badge/-Node.js-2F4F4F?style=plastic&logo=node.js&logoColor=5F9EA0)
-![Docusaurus](https://img.shields.io/badge/-Docusaurus-90EE90?style=plastic&logo=docusaurus&logoColor=2E8B57)
-![TypeScript](https://img.shields.io/badge/-TypeScript-20b2aa?style=plastic&logo=typescript&logoColor=afeeee)
-![React](https://img.shields.io/badge/-React-18344A?style=plastic&logo=react&logoColor=gray&logoColor=9bf6ff)
-![Angular](https://img.shields.io/badge/-Angular-C71585?style=plastic&logo=angular&logoColor=salmon)
-![Python](https://img.shields.io/badge/-Python-ffa500?style=plastic&logo=python&logoColor=1E90FF)
-![Colab](https://img.shields.io/badge/-Colab-salmon?style=plastic&logo=googlecolab&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/-Flask-gray?style=plastic&logo=flask&logoColor=white)
+
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-90EE90?style=plastic&logo=node.js&logoColor=43853D)
