@@ -15,7 +15,7 @@
   </pre>
 </h6>
   
-## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ; ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
+## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ☯︎ ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
 
 > Seek out the wisdom in the pull requests,
 > find serenity in the push,
@@ -102,4 +102,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=40&pause=1000&color=FFFFFF&background=1D815800&center=true&vCenter=true&random=true&width=1000&height=200&lines=%F0%9F%A7%AA+Science+%E2%86%94+%F0%9F%92%BE+Data+;%F0%9F%92%BE+Data+%E2%86%94+%F0%9F%92%BB+Scripting+;%F0%9F%92%BB+Scripting+%E2%86%94+%F0%9F%93%8A+Big+Data+;%F0%9F%93%8A+Big+Data+%E2%86%94+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Dev;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Full+Stack+Dev+%E2%86%94+%F0%9F%8E%A8+Creativity;%F0%9F%8E%A8+Creativity+%E2%86%94+%F0%9F%96%8C%EF%B8%8FArt;%F0%9F%96%8C%EF%B8%8FArt+%E2%86%94+%F0%9F%A7%A0+Mind;%F0%9F%A7%A0+Mind+%E2%86%94+%F0%9F%A4%AF+Consciousness+;%F0%9F%A4%AF+Consciousness+%E2%86%94+%F0%9F%A7%A0Neuroscience;%F0%9F%8C%88+Somewhere+Over++The+Tech+Rainbow%F0%9F%92%AB)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=40&pause=1000&color=FFFFFF&background=1D815800&center=true&vCenter=true&random=true&width=1000&height=200&lines=%F0%9F%A7%AA+Science+%E2%86%94+%F0%9F%92%BE+Data+;%F0%9F%92%BE+Data+%E2%86%94+%F0%9F%92%BB+Scripting+;%F0%9F%92%BB+Scripting+%E2%86%94+%F0%9F%93%8A+Big+Data+;%F0%9F%93%8A+Big+Data+%E2%86%94+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Dev;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Full+Stack+Dev+%E2%86%94+%F0%9F%8E%A8+Creativity;%F0%9F%8E%A8+Creativity+%E2%86%94+%F0%9F%96%8C%EF%B8%8FArt;%F0%9F%96%8C%EF%B8%8FArt+%E2%86%94+%F0%9F%A7%A0+Mind;%F0%9F%A7%A0+Mind+%E2%86%94+%F0%9F%A4%AF+Consciousness+;%F0%9F%A4%AF+Consciousness+%E2%86%94+%F0%9F%A7%A0Neuroscience;%F0%9F%8C%88+Somewhere+Over++The+Tech+Rainbow%F0%9F%92%AB)
