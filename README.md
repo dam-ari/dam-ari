@@ -15,7 +15,7 @@
   </pre>
 </h6>
   
-## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ☯︎ ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
+## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ~☯︎~ ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
 
 > Seek out the wisdom in the pull requests,
 > find serenity in the push,
