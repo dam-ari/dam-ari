@@ -39,10 +39,11 @@
 
 🔭 Gazing upon creativity's constellations 
 
+<!--
 🌱 Nurturing ideas in open-source realms [silver roses blooming under a sheep-clouded sunset]
 
 💬 Exchange whispers of wisdom [thoughts drift like windborne tales]
-
+-->
 📫 Reach where digital horizons kiss amber skies
 
 🧠 Unraveling the tapestry of AI and neuroscience, synapses meeting circuits.
