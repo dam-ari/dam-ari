@@ -24,7 +24,6 @@
 >
 > Delve into the neurons of code, where each synapse fires with purpose, and the elegance of solutions emerges from the complexity of questions.
 
-
 ### ![Static Badge](https://img.shields.io/badge/_❄️_❄️_❄️_❅_❅_❅_❄️_❄️_❄️_❅_❅_❅_❄️_❄️_❄️-black) <br>
 
 🔗 
@@ -40,15 +39,24 @@
 🔭 Gazing upon creativity's constellations 
 
 <!--
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,typescript,git,github,c,python,flask,nodejs,bash" />
+  </a>
+</p>
+
 🌱 Nurturing ideas in open-source realms [silver roses blooming under a sheep-clouded sunset]
 
 💬 Exchange whispers of wisdom [thoughts drift like windborne tales]
--->
 📫 Reach where digital horizons kiss amber skies
-
 🧠 Unraveling the tapestry of AI and neuroscience, synapses meeting circuits.
+-->
 
 ⚡ Melding innovation's light with twilight's magic.
+
+
 
 
 
@@ -65,7 +73,12 @@
 
 <center>
 
+<p align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=28&duration=2500&pause=1500&color=00FFB8&background=3C3C3C00&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22Remember+who+you+are%2C+;+the+true+sovereign+of+your+imagination+%E2%99%95+%F0%9F%92%AB%22)](https://git.io/typing-svg)
+
+</p>
+
 
 <!--
 ![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue) <br>
