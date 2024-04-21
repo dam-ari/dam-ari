@@ -15,14 +15,11 @@
   </pre>
 </h6>
   
-## ![Static Badge](https://img.shields.io/badge/🤍_-blue) ~☯︎~ ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" />
+## ( ![Static Badge](https://img.shields.io/badge/🤍_-blue)   ~0~   ![Static Badge](https://img.shields.io/badge/_💙-white) <img src="Untitled-2.png" align="right" width="150" /> )
 
-> Seek out the wisdom in the pull requests,
-> find serenity in the push,
-> and let each merge be a fusion of the mind's boundless potential
-> and the machine's infinite possibilities.
+> Seekin out the wisdom in the pull requests,
+> findin the serenity in the push✨
 >
-> Delve into the neurons of code, where each synapse fires with purpose, and the elegance of solutions emerges from the complexity of questions.
 
 ### ![Static Badge](https://img.shields.io/badge/_❄️_❄️_❄️_❅_❅_❅_❄️_❄️_❄️_❅_❅_❅_❄️_❄️_❄️-black) <br>
 
@@ -53,13 +50,9 @@
 📫 Reach where digital horizons kiss amber skies
 🧠 Unraveling the tapestry of AI and neuroscience, synapses meeting circuits.
 -->
-
+🌱 Nurturing ideas in open-source realms
+💬 Exchanging whispers of wisdom
 ⚡ Melding innovation's light with twilight's magic.
-
-
-
-
-
 
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-90EE90?style=plastic&logo=node.js&logoColor=43853D)
@@ -75,45 +68,34 @@
 
 <p align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=28&duration=2500&pause=1500&color=00FFB8&background=3C3C3C00&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22Remember+who+you+are%2C+;+the+true+sovereign+of+your+imagination+%E2%99%95+%F0%9F%92%AB%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=18&duration=2500&pause=1500&color=00FFB8&background=3C3C3C00&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22Remember+who+you+are%2C+;+the+true+sovereign+of+your+imagination+%E2%99%95+%F0%9F%92%AB%22)](https://git.io/typing-svg)
 
 </p>
-
-
 <!--
 ![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue) <br>
 ![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)
 --> 
-
 </center>
-
-
 <details>
   <summary> 
-   <h6> BALAD OF A Synapse of Creativity and Code</h6>
-</summary> 
-
+<!--    <h6> BALAD of a Synapse of Creativity and Code</h6> -->
+  </summary> 
   <img src="Lion cub sticker.png" align="right" width="200" />
-
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Annie+Use+Your+Telescope&duration=2500&pause=1000&color=1DBEAC&background=3C3C3C00&vCenter=true&multiline=true&random=false&width=448&height=400&lines=%3E+In+the+tapestry+of+thought+and+theory%2C;%3E+Where+philosophy+meets+the+neural+pulse+of+innovation%2C;%3E+An+enigma+unfolds+in+the+heart+of+the+code.;%3E;%3E+A+constellation+of+creativity+sparkles%2C;%3E+Whispers+of+thought+drift+like+storied+zephyrs.;%3E;%3E+Horizons+expand+where+sunlit+code+kisses+the+edge+of+understanding%2C;%3E+Electrifying+the+world+with+the+power+of+innovation%2C;%3E+Here+lies+the+crossroads+of+possibility+and+discovery.;%3E)](https://git.io/typing-svg)
 </details>
-
 <!--
-🔭 Gazing at the constellations of creativity,
-🌱 Nurturing ideas in the fertile soil of open-source,
-💬 Engage in the exchange of stories and insights,
-📫 Reach out to the meeting place of dawn and the digital expanse,
-⚡ Igniting the expanse with our collective spark.
-🔭 Gazing at the constellations of creativity,
-🌱 Sprouting seeds of ingenuity in the open-source soil,
-💬 Whisper me your thoughts, like the wind carries stories,
-📫 Reach out to the horizon where the sun kisses the code,
-⚡ Let's electrify the world with the light of innovation.
--->
-
----
-
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Annie+Use+Your+Telescope&duration=2500&pause=1000&color=1DBEAC&background=3C3C3C00&vCenter=true&multiline=true&random=false&width=448&height=400&lines=%3E+In+the+tapestry+of+thought+and+theory%2C;%3E+Where+philosophy+meets+the+neural+pulse+of+innovation%2C;%3E+An+enigma+unfolds+in+the+heart+of+the+code.;%3E;%3E+A+constellation+of+creativity+sparkles%2C;%3E+Whispers+of+thought+drift+like+storied+zephyrs.;%3E;%3E+Horizons+expand+where+sunlit+code+kisses+the+edge+of+understanding%2C;%3E+Electrifying+the+world+with+the+power+of+innovation%2C;%3E+Here+lies+the+crossroads+of+possibility+and+discovery.;%3E)](https://git.io/typing-svg) 
+      🔭 Gazing at the constellations of creativity,
+      🌱 Nurturing ideas in the fertile soil of open-source,
+      💬 Engage in the exchange of stories and insights,
+      📫 Reach out to the meeting place of dawn and the digital expanse,
+      ⚡ Igniting the expanse with our collective spark.
+      🔭 Gazing at the constellations of creativity,
+      🌱 Sprouting seeds of ingenuity in the open-source soil,
+      💬 Whisper me your thoughts, like the wind carries stories,
+      📫 Reach out to the horizon where the sun kisses the code,
+      ⚡ Let's electrify the world with the light of innovation.
+      -->
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=40&pause=1000&color=FFFFFF&background=1D815800&center=true&vCenter=true&random=true&width=1000&height=200&lines=%F0%9F%A7%AA+Science+%E2%86%94+%F0%9F%92%BE+Data+;%F0%9F%92%BE+Data+%E2%86%94+%F0%9F%92%BB+Scripting+;%F0%9F%92%BB+Scripting+%E2%86%94+%F0%9F%93%8A+Big+Data+;%F0%9F%93%8A+Big+Data+%E2%86%94+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Dev;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Full+Stack+Dev+%E2%86%94+%F0%9F%8E%A8+Creativity;%F0%9F%8E%A8+Creativity+%E2%86%94+%F0%9F%96%8C%EF%B8%8FArt;%F0%9F%96%8C%EF%B8%8FArt+%E2%86%94+%F0%9F%A7%A0+Mind;%F0%9F%A7%A0+Mind+%E2%86%94+%F0%9F%A4%AF+Consciousness+;%F0%9F%A4%AF+Consciousness+%E2%86%94+%F0%9F%A7%A0Neuroscience;%F0%9F%8C%88+Somewhere+Over++The+Tech+Rainbow%F0%9F%92%AB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=30&pause=1000&color=FFFFFF&background=1D815800&center=true&vCenter=true&random=False&width=1000&height=200&lines=%F0%9F%A7%AA+Science+%E2%86%94+%F0%9F%92%BE+Data+;%F0%9F%92%BE+Data+%E2%86%94+%F0%9F%92%BB+Scripting+;%F0%9F%92%BB+Scripting+%E2%86%94+%F0%9F%93%8A+Big+Data+;%F0%9F%93%8A+Big+Data+%E2%86%94+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Full+Stack+Dev;%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB++Full+Stack+Dev+%E2%86%94+%F0%9F%8E%A8+Creativity;%F0%9F%8E%A8+Creativity+%E2%86%94+%F0%9F%96%8C%EF%B8%8FArt;%F0%9F%96%8C%EF%B8%8FArt+%E2%86%94+%F0%9F%A7%A0+Mind;%F0%9F%A7%A0+Mind+%E2%86%94+%F0%9F%A4%AF+Consciousness+;%F0%9F%A4%AF+Consciousness+%E2%86%94+%F0%9F%A7%A0Neuroscience;%F0%9F%8C%88+Somewhere+Over++The+Tech+Rainbow%F0%9F%92%AB)
+
