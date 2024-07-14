@@ -65,17 +65,20 @@
 ![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white) -->
 
 <center>
-
+<!--
 <p align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Grechen+Fuemen&size=18&duration=2500&pause=1500&color=00FFB8&background=3C3C3C00&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%22Remember+who+you+are%2C+;+the+true+sovereign+of+your+imagination+%E2%99%95+%F0%9F%92%AB%22)](https://git.io/typing-svg)
 
 </p>
+-->
 <!--
 ![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue) <br>
 ![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)![Static Badge](https://img.shields.io/badge/_💙_-_🩶_-blue)
 --> 
 </center>
+
+<!--
 <details>
   <summary> 
       <img src="Lion cub sticker.png" align="center" width="200" />
